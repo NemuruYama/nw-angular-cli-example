@@ -84,6 +84,7 @@
   "build": {
     "nwVersion": "v0.44.4",
     "nwFlavor": "normal",
+    "packed": true,
     "targets": [
       "zip",
       "nsis7z"
